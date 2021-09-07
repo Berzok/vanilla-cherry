@@ -1,0 +1,21 @@
+{
+  "name": "vanilla-cherry",
+  "version": "0.6.0",
+  "description": "Collection of useful functions or classes, written in vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Berzok/vanilla-cherry.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "vanilla",
+    "collection"
+  ],
+  "author": "Berzok",
+  "license": "ISC"
+}
